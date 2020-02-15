@@ -17,4 +17,4 @@ Allow users to vote give multiple choices
 
 - [Firebase](https://firebase.google.com) for a realtime database
 
-## Example projects
+
